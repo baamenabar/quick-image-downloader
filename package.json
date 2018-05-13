@@ -1,0 +1,14 @@
+{
+  "name": "quick-image-downloader",
+  "version": "1.0.0",
+  "description": "Scrape a site from the console, then massively download to a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B. Agustn Amenabar L.",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.0.0"
+  }
+}
